@@ -1,0 +1,14 @@
+for desktop Github: https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+for git : https://git-scm.com/download/win
+
+global configurations
+git config --global user.name "sadique"
+git config --global user.name "sadikshaikhh736@gmail.com"
+
+
+get init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/sadique05/github-config.git
+git push -u origin main
